@@ -84,7 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Hat tip to anyone whose code was used
 * Inspiration
-* etc
+* https://www.kaggle.com/lextoumbourou/plant-pathology-2020-eda-training-fastai2 special thanks fot Lex Toumbourou
 
 ##References 
 #https://pytorch.org/docs/stable/torchvision/models.html

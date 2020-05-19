@@ -85,3 +85,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+##References 
+#https://pytorch.org/docs/stable/torchvision/models.html
+#https://www.kaggle.com/pytorch/densenet121 and pretrained models to save time and resources of execution
+#more on dense nets https://github.com/liuzhuang13/DenseNet and in https://arxiv.org/abs/1608.06993
+#https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html
+#https://link.springer.com/article/10.1023/A:1010920819831 for more on ROC Operating Characteristic curves..

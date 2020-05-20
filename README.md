@@ -85,3 +85,18 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+## References
+
+* Semarnat
+
+* [Semarnat csv](https://datos.gob.mx/busca/dataset/indicadores-de-crecimiento-verde--capital-natural/resource/06ebfb05-23c5-4f75-8068-2860ec8574f3)
+
+
+* https://datos.gob.mx/busca/dataset/indicadores-de-crecimiento-verde--capital-natural/resource/5500f73b-7a51-4419-96ca-2a65f49b18b6
+
+* https://datos.gob.mx/busca/dataset/indicadores-de-crecimiento-verde--capital-natural/resource/e082f9b6-0ca6-4ca6-abbd-a3b9ae9a30cc
+
+* Conafor:
+
+* http://transparencia01.cnf.gob.mx/OpenData/Inventario/INFyS_2009_2014/

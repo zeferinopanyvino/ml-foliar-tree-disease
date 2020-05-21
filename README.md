@@ -9,7 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them
-
+libraries:
+*fastai :
 ```
 Give examples
 ```
@@ -91,7 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Semarnat
 
 * [Semarnat csv](https://datos.gob.mx/busca/dataset/indicadores-de-crecimiento-verde--capital-natural/resource/06ebfb05-23c5-4f75-8068-2860ec8574f3)
-
+* [más de especies útiles](https://cienciasagricolas.inifap.gob.mx/index.php/v10n1-010)
 
 * https://datos.gob.mx/busca/dataset/indicadores-de-crecimiento-verde--capital-natural/resource/5500f73b-7a51-4419-96ca-2a65f49b18b6
 
@@ -100,3 +101,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Conafor:
 
 * http://transparencia01.cnf.gob.mx/OpenData/Inventario/INFyS_2009_2014/
+
+About the model:
+* [CNN](https://www.edureka.co/blog/convolutional-neural-network/)
+* [FG problems](https://paperswithcode.com/task/fine-grained-image-classification)
+
+Other ways to do it:
+* [using TPU](https://www.kaggle.com/biruk1230/tpu-ensemble-effnb7-effnb6-inceptresnetv2-etc)

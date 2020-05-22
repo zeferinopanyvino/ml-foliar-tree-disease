@@ -3,8 +3,8 @@ Intro to CNN with images
 This project is intented to take a shot at a Kaggle competition about foliar diseases on apple trees.
 Parapraph of project description
 ## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+The idea of the project was to take a first glance of CNN in classification models.
+se instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 

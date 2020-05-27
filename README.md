@@ -2,6 +2,7 @@
 Intro to CNN with images
 This project is intented to take a shot at a Kaggle competition about foliar diseases on apple trees.
 Parapraph of project description
+We have a dataset of around 2500 high resolution pictures of apple leaves that may be either healthy, have rust of scam or a mixture of these diseases. 
 ## Getting Started
 The idea of the project was to take a first glance of CNN in classification models.
 se instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.

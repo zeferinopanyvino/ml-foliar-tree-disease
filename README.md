@@ -32,7 +32,7 @@ And repeat
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+We could generate more images rotating the images and saving them like that.
 
 ## Running the tests
 
@@ -48,7 +48,7 @@ Give an example
 
 ### And coding style tests
 
-Explain what these tests test and why
+Explanation for testing:
 Testing with uploaded images. For deep learning techniques i could rotate the images to generate new ones due to a very small 
 image sample (1400 pics).
 

@@ -2,7 +2,7 @@
 Intro to CNN with images
 This project is intented to take a shot at a Kaggle competition about foliar diseases on apple trees.
 Parapraph of project description
-We have a dataset of around 2500 high resolution pictures of apple leaves that may be either healthy, have rust of scam or a mixture of these diseases. 
+We have a dataset of around 2500 high resolution pictures (for train and another 2400 for tests) of apple leaves that may be either healthy, have rust of scam or a mixture of these diseases. 
 ## Getting Started
 The idea of the project was to take a first glance of CNN in classification models.
 se instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -49,26 +49,18 @@ Give an example
 ### And coding style tests
 
 Explanation for testing:
-Testing with uploaded images. For deep learning techniques i could rotate the images to generate new ones due to a very small 
-image sample (1400 pics).
+Testing with uploaded images. For deep learning techniques I could rotate the images to generate new ones due to a very small 
+image sample (2400 pics) for test and train sets.
 
 ```
 Give an example
 ```
 
 ## Deployment
-
-Add additional notes about how to deploy this on a live system
+Should be done on the Kaggle competition senction.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -76,9 +68,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
@@ -86,9 +75,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* OpenCV Python Tutorials ~ by OpenCV
+* Plant Pathology: Very Concise TPU EfficientNet ~ by xhulu
+* Plotly Express in Python ~ by Plotly
+* EDA - Plant Pathology 2020 ~ by Peter
+* Fork of Plant 2020 TPU 915e9c ~ by Alexander
 
 ## References
 

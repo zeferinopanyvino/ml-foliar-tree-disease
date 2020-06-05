@@ -42,12 +42,6 @@ Explain how to run the automated tests for this system
 
 Explain what these tests test and why
 
-```
-Give an example
-```
-
-### And coding style tests
-
 Explanation for testing:
 Testing with uploaded images. For deep learning techniques I could rotate the images to generate new ones due to a very small 
 image sample (2400 pics) for test and train sets.

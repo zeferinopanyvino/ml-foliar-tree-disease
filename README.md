@@ -5,62 +5,29 @@ Parapraph of project description
 We have a dataset of around 2500 high resolution pictures (for train and another 2400 for tests) of apple leaves that may be either healthy, have rust of scam or a mixture of these diseases. 
 ## Getting Started
 The idea of the project was to take a first glance of CNN in classification models.
-This repo pretends to show what I incursionated on my final project of an Ironhack bootcamp in Data Analytics. All the topics were new to me and had to dive on my own to purseu some attempt to participate on a Kaggle competition. Basically it´s me trying to get some experience.
+This repo pretends to show what I dived on my final project of an Ironhack Bootcamp in Data Analytics. All the topics were new to me and had to dive on my own to pursue some attempt to participate in a Kaggle competition. Basically, it´s me trying to get some experience.
 
 ### Prerequisites
-
+Know about use of Pandas, use of DataFrames, ML. To learn about the AI needed the Coursera MOOCs of Andrew Ng were super useful.
 What things you need to install the software and how to install them
 libraries:
-*fastai :
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-We could generate more images rotating the images and saving them like that.
+*fastai 
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+I executed the code directly on my Jupyter Notebook.
 
 Explanation for testing:
 Testing with uploaded images. For deep learning techniques I could rotate the images to generate new ones due to a very small 
 image sample (2400 pics) for test and train sets.
 
-```
-Give an example
-```
-
-## Deployment
-Should be done on the Kaggle competition senction.
-
-## Built With
+We could generate more images rotating the images and saving them like that.
 
 
-## Versioning
+## Results
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
+Submission should be done on the Kaggle competition section. At the end the competition ended one week later after my bootcamp.
+Unfortunately I couldn`t submmit a final project. I finished learning that what was needed for this project was a lot of computing power and more time to learn about Fine-grained image recognition. Thus deep learning was needed due to 1254x1254x3 imput data before all the convolution and filtering process would have eventually got me to overfitting of the model. I needed a database of nos thousands of HR images but much more. That is a very good lesson to keep in mind for further initiatives of mine. I will keep on this project once I can enter a computing lab on further research enterprises. 
 
 
 ## License

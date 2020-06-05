@@ -5,7 +5,7 @@ Parapraph of project description
 We have a dataset of around 2500 high resolution pictures (for train and another 2400 for tests) of apple leaves that may be either healthy, have rust of scam or a mixture of these diseases. 
 ## Getting Started
 The idea of the project was to take a first glance of CNN in classification models.
-se instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This repo pretends to show what I incursionated on my final project of an Ironhack bootcamp in Data Analytics. All the topics were new to me and had to dive on my own to purseu some attempt to participate on a Kaggle competition. Basically it´s me trying to get some experience.
 
 ### Prerequisites
 

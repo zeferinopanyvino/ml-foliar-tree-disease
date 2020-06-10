@@ -8,7 +8,7 @@ The idea of the project was to take a first glance of CNN in classification mode
 This repo pretends to show what I dived on my final project of an Ironhack Bootcamp in Data Analytics. All the topics were new to me and had to dive on my own to pursue some attempt to participate in a Kaggle competition. Basically, it´s me trying to get some experience.
 
 ### Prerequisites
-Know about use of Pandas, use of DataFrames, ML. To learn about the AI needed the Coursera MOOCs of Andrew Ng were super useful.
+Know about use of Pandas,numpy, ML. To learn about the AI needed the Coursera MOOCs of Andrew Ng were super useful.
 What things you need to install the software and how to install them
 libraries:
 *fastai 
@@ -43,8 +43,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Fork of Plant 2020 TPU 915e9c ~ by Alexander
 
 ## References
-
-* Semarnat
 
 * [Semarnat csv](https://datos.gob.mx/busca/dataset/indicadores-de-crecimiento-verde--capital-natural/resource/06ebfb05-23c5-4f75-8068-2860ec8574f3)
 * [más de especies útiles](https://cienciasagricolas.inifap.gob.mx/index.php/v10n1-010)

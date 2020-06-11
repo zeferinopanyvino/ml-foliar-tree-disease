@@ -9,9 +9,9 @@ This repo pretends to show what I dived on my final project of an Ironhack Bootc
 
 ### Prerequisites
 Know about use of Pandas,numpy, ML. To learn about the AI needed the Coursera MOOCs of Andrew Ng were super useful.
-What things you need to install the software and how to install them
-libraries:
+What things you need to install the software and how to install them, libraries:
 *fastai 
+*scikit learn
 
 ## Running the tests
 

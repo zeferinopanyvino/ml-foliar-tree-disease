@@ -21,7 +21,7 @@ Explanation for testing:
 Testing with uploaded images. For deep learning techniques I could rotate the images to generate new ones due to a very small 
 image sample (2400 pics) for test and train sets.
 
-We could generate more images rotating the images and saving them like that.
+We could generate more images rotating the images and saving them like that but would need millions for deep learning techniques. Ram and computing limits were a complete stop tough I learned ways to do stuff.
 
 
 ## Results

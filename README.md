@@ -22,7 +22,7 @@ Testing with uploaded images. For deep learning techniques I could rotate the im
 image sample (2400 pics) for test and train sets.
 
 We could generate more images rotating the images and saving them like that but would need millions for deep learning techniques. Ram and computing limits were a complete stop tough I learned ways to do stuff.
-
+A random forest classifier might be also useful for further analysis. 
 
 ## Results
 
